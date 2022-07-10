@@ -1,0 +1,6 @@
+
+1.  npm install express
+2.  npm install body-Parser
+3.  Body parser is middleware to capture FORM DATA in the form of an array
+
+RUN node bmi.js
